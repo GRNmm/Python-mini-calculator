@@ -17,7 +17,7 @@ A beginner-friendly Python project that allows users to perform basic arithmetic
 
 ---
 
-#### ⚡ Installation
+####  Installation
 Clone the repository and navigate to the project folder:
 ```bash
 git clone https://github.com/GRNmm/mini-calculator.git
@@ -41,7 +41,7 @@ Output:
 makefile
 Result: 8.0
 
-💻 Code Example
+ // Code Example
 python
 # Mini-Calculator by GRNmm
 
@@ -65,7 +65,7 @@ else:
 
 __________________________________________________________________________________________________
 
-🎯 Learning Goals
+ ##### Learning Goals
 User input handling
 
 Type conversion (float())
